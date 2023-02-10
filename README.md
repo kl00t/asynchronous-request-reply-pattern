@@ -1,6 +1,4 @@
-# asynchronous-request-reply-pattern
-
-##Asynchronous APIs with .NET
+# Asynchronous APIs with .NET
 
 In this solution is a .NET API solution around the Asynchronous Request Reply pattern.
 This allows is to decouple our APIs from long running processes.
